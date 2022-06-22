@@ -1,0 +1,23 @@
+.ttabla{color:blue;
+border:2px;}
+body {
+    background-color: #75C9B7;
+}
+header{
+    background-color: #322E2F;
+}
+.enc {
+    color: #C7DDCC;
+}
+.claro {
+    background-color: #C7DDCC;
+}
+article {
+    background-color: #12a4d9;
+}
+aside{
+    background-color: #D9138A;
+}
+footer {
+    background-color: #E2D810;
+}
